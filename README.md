@@ -1,7 +1,9 @@
 Link YouTube: [https://youtu.be/DFgWVjIj1rc?si=hMyhb7lbmaDKJ8tt](https://youtu.be/DFgWVjIj1rc?si=hMyhb7lbmaDKJ8tt)
 
 
+
 Tes Ping dari PC-A ke PC-B (Gagal)
+
 PC> ping 192.168.0.3
 
 ![Ping_Gagal](Ping_Gagal.png)
@@ -16,7 +18,9 @@ Untuk dapat mengirim data antar subnet, dibutuhkan perangkat Layer 3 yaitu route
 Namun karena interface router (GigabitEthernet0/0/0 dan GigabitEthernet0/0/1) belum diberikan alamat IP dan belum diaktifkan (no shutdown), maka router tidak tahu jalur antar jaringan tersebut. Akibatnya, saat PC-A mengirimkan paket ICMP (ping), paket berhenti di switch dan tidak dapat diteruskan ke subnet tujuan.
 
 
+
 Tes Ping dari PC-A ke PC-B setelah Router dikonfigurasi (Berhasil)
+
 PC> ping 192.168.0.3
 
 ![Ping_Berhasil](Ping_Berhasil.png)
@@ -30,12 +34,15 @@ Alasan ping berhasil:
 - Router sudah mengenali kedua jaringan sebagai directly connected networks, sehingga dapat meneruskan paket ICMP antar subnet.
 
 
+
 Tes Ping dari Switch S1 ke PC-B (Berhasil)
+
 S1# ping 192.168.0.3
 
 ![Ping_S1 ke PC-B](Ping_S1_ke_PC-B.png)
 
 Hasil ping dari switch menunjukkan “Success rate is 60 percent (3/5)”, artinya dari lima kali percobaan pengiriman paket ICMP, tiga berhasil dan dua mengalami timeout.
+
 
 
 
