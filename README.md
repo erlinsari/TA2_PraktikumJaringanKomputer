@@ -1,5 +1,3 @@
-Link Github: [https://github.com/erlinsari/TA2_PraktikumJaringanKomputer.git](https://github.com/erlinsari/TA2_PraktikumJaringanKomputer.git)
-
 Link YouTube: [https://youtu.be/DFgWVjIj1rc?si=hMyhb7lbmaDKJ8tt](https://youtu.be/DFgWVjIj1rc?si=hMyhb7lbmaDKJ8tt)
 
 ![Ping_Gagal](Ping_Gagal.png)
@@ -39,5 +37,6 @@ S1# ping 192.168.0.3
 
 
 Hasil ping dari switch menunjukkan “Success rate is 60 percent (3/5)”, artinya dari lima kali percobaan pengiriman paket ICMP, tiga berhasil dan dua mengalami timeout.
+
 
 
