@@ -1,3 +1,6 @@
+Link Github: [https://github.com/erlinsari/TA2_PraktikumJaringanKomputer.git](https://github.com/erlinsari/TA2_PraktikumJaringanKomputer.git)
+
+
 Link YouTube: [https://youtu.be/DFgWVjIj1rc?si=hMyhb7lbmaDKJ8tt](https://youtu.be/DFgWVjIj1rc?si=hMyhb7lbmaDKJ8tt)
 
 Tes Ping dari PC-A ke PC-B (Gagal)
