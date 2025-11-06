@@ -1,4 +1,4 @@
-Link YouTube: [text](https://youtu.be/DFgWVjIj1rc?si=hMyhb7lbmaDKJ8tt)
+Link YouTube: [https://youtu.be/DFgWVjIj1rc?si=hMyhb7lbmaDKJ8tt](https://youtu.be/DFgWVjIj1rc?si=hMyhb7lbmaDKJ8tt)
 
 Tes Ping dari PC-A ke PC-B (Gagal)
 PC> ping 192.168.0.3
